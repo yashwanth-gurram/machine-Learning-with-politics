@@ -1,4 +1,4 @@
-# Indian General Elections 2019 EDA and winner prediction
+# Indian General Elections 2019 Data Analysis
 
 <img src = "https://github.com/yashwanth-gurram/Indian-General-Elections-2019/blob/master/Images/Lok-Sabha-Elections-2019.jpg" width = "1000">
 
